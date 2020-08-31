@@ -1,0 +1,469 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"right",
+				"display-table-card-right"
+			],
+			[
+				"center",
+				"display-table-card-center"
+			],
+			[
+				"left",
+				"display-table-card-left"
+			],
+			[
+				"card",
+				"display-table-card"
+			],
+			[
+				"input",
+				"guest-book-input"
+			],
+			[
+				"display",
+				"display-table-card-center"
+			],
+			[
+				"display-",
+				"display-table-card-center"
+			],
+			[
+				"dis",
+				"display-table-card-right"
+			],
+			[
+				"di",
+				"display-table-card-center"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "routes/api.php",
+			"settings":
+			{
+				"buffer_size": 1442,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Middleware/Authenticate.php",
+			"settings":
+			{
+				"buffer_size": 469,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/Auth/ApiAuthController.php",
+			"settings":
+			{
+				"buffer_size": 3539,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/DinerController.php",
+			"settings":
+			{
+				"buffer_size": 1468,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/NibblrRest"
+	],
+	"file_history":
+	[
+		"/C/xampp/NibblrRest/public/index.php",
+		"/C/xampp/NibblrRest/app/Providers/AuthServiceProvider.php",
+		"/C/xampp/NibblrRest/config/auth.php",
+		"/C/xampp/NibblrRest/database/seeds/userDinersTableSeeder.php",
+		"/C/xampp/NibblrRest/database/seeds/DatabaseSeeder.php",
+		"/C/xampp/NibblrRest/app/Http/Middleware/Authenticate.php",
+		"/C/xampp/NibblrRest/app/Http/Controllers/Controller.php",
+		"/C/xampp/NibblrRest/app/User.php",
+		"/C/xampp/NibblrRest/database/seeds/dinersTableSeeder.php",
+		"/C/xampp/NibblrRest/database/seeds/userDataTableSeeder.php",
+		"/C/xampp/NibblrRest/database/seeds/usersTableSeeder.php",
+		"/C/xampp/NibblrRest/app/Http/Kernel.php",
+		"/C/xampp/NibblrRest/database/migrations/2020_08_28_001001_create_user_diners_table.php",
+		"/C/xampp/NibblrRest/database/migrations/2020_08_28_000909_create_diners_table.php",
+		"/C/xampp/NibblrRest/app/UserDiner.php",
+		"/C/xampp/NibblrRest/config/app.php",
+		"/C/xampp/NibblrRest/config/database.php",
+		"/C/xampp/apache/conf/httpd.conf",
+		"/Z/Games/Minecraft/Instances/afsdfsdf/config/appliedenergistics2-client.toml",
+		"/C/xampp/htdocs/nibblrrest/public/index.php",
+		"/Z/Games/Minecraft/Instances/afsdfsdf/config/mahoutsukai-client.toml",
+		"/Z/Games/Minecraft/Instances/afsdfsdf/config/appliedenergistics2-common.toml",
+		"/Z/Games/Minecraft/Instances/Jason's Minestuck/config/wearablebackpacks.cfg",
+		"/Z/Games/Minecraft/Instances/Jason's Minestuck/config/beyondtheveil.cfg",
+		"/Z/Games/Minecraft/Instances/Jason's Minestuck/config/tektopiainformation.cfg",
+		"/Z/Games/Minecraft/Instances/Jason's Minestuck/saves/The Challenge/computer/2/keypad/SetCode.lua",
+		"/C/Users/catte/Desktop/codelock.lua",
+		"/Z/Games/Minecraft/Instances/Jason's Minestuck/config/sync.cfg",
+		"/Z/Games/Minecraft/Instances/Jason's Minestuck/config/mkultra.cfg",
+		"/Z/Games/Minecraft/Instances/Jason's Minestuck/config/JJ Races.cfg",
+		"/Z/Games/Minecraft/Instances/Jason's Minestuck/config/monk.cfg",
+		"/Z/Games/Minecraft/Instances/Jason's Minestuck/config/AppliedEnergistics2/AppliedEnergistics2.cfg",
+		"/Z/Games/Minecraft/Instances/Jason's Minestuck/config/akashictome.cfg",
+		"/Z/Games/Minecraft/Instances/Jason's Minestuck/minecraftinstance.json",
+		"/Z/Games/Minecraft/Instances/Jason's Minestuck/config/ice_and_fire.cfg",
+		"/Z/Games/Minecraft/Instances/Jason's Minestuck/config/thaumcraft_misc.cfg",
+		"/Z/Games/Minecraft/Instances/Magic Bullshit/config/Waystones.cfg",
+		"/Z/Games/Minecraft/Instances/Jason's Minestuck/config/mahoutsukai.cfg",
+		"/Z/Games/Minecraft/Instances/Jason's Minestuck/config/minestuck.cfg",
+		"/Z/Games/Minecraft/Instances/Jason's Minestuck/config/minestuckarsenal.cfg",
+		"/C/Users/catte/Desktop/messages.json",
+		"/Z/Games/Minecraft/Instances/Magic Bullshit/config/monk.cfg",
+		"/Z/Games/Minecraft/Instances/Magic Bullshit/config/splash.properties",
+		"/Z/Games/Minecraft/Instances/Magic Bullshit/asm/hammercore.xml",
+		"/Z/Games/Minecraft/Instances/Jason's Minestuck/config/trophyslots.cfg",
+		"/Z/Games/Minecraft/Instances/Jason's Minestuck/config/NomadicTents.cfg",
+		"/Z/Games/Minecraft/Instances/Jason's Minestuck/config/TARDIS Mod.cfg",
+		"/Z/Games/Minecraft/Instances/Magic Bullshit/config/hammercore.cfg",
+		"/Z/Games/Minecraft/Instances/Magic Bullshit/config/hammercore/tile_entity_tick_slip.json",
+		"/C/Users/catte/AppData/Local/Temp/Rar$DIa18220.30354/messages.json",
+		"/Z/Games/Minecraft/Instances/Magic Bullshit/config/minestuck.cfg",
+		"/Z/Games/Minecraft/Instances/Magic Bullshit/config/sgcraft.cfg",
+		"/Z/Games/Minecraft/Instances/Magic Bullshit/config/sync.cfg",
+		"/Z/Games/Minecraft/Instances/Magic Bullshit/config/tips.cfg",
+		"/Z/Games/Minecraft/Instances/Magic Bullshit/minecraftinstance.json",
+		"/Z/Games/Minecraft/Instances/Magic Bullshit/config/NomadicTents.cfg",
+		"/Z/Games/Minecraft/Instances/Magic Bullshit/config/AppliedEnergistics2/AppliedEnergistics2.cfg",
+		"/Z/Games/Minecraft/Instances/Magic Bullshit/config/atum.cfg",
+		"/Z/Games/Minecraft/Instances/Magic Bullshit/config/AzTech.cfg",
+		"/Z/Games/Minecraft/Instances/Magic Bullshit/config/aether_legacy.cfg",
+		"/Z/Games/Minecraft/Instances/Magic Bullshit/config/GalaxySpace/dimensions.conf",
+		"/C/Users/catte/AppData/Local/Temp/fz3temp-2/StripDesignerView.php",
+		"/Z/Games/Minecraft/Instances/Magic Bullshit/config/performant.cfg",
+		"/Z/Games/Minecraft/Instances/Magic Bullshit/config/aether_legacy_addon.cfg",
+		"/Z/Games/Minecraft/Instances/Magic Bullshit/config/GalaxySpace/core.conf",
+		"/Z/Games/Minecraft/Instances/Magic Bullshit/config/GalaxySpace/schematics.conf",
+		"/Z/Games/Minecraft/Instances/Magic Bullshit/config/GalaxySpace/energy.conf",
+		"/Z/Games/Minecraft/Instances/SevTech Ages/config/incontrol/loot.json",
+		"/Z/Games/Minecraft/Instances/SevTech Ages/config/incontrol/potentialspawn.json",
+		"/Z/Games/Minecraft/Instances/SevTech Ages/config/incontrol/summonaid.json",
+		"/Z/Games/Minecraft/Instances/SevTech Ages/config/incontrol/experience.json",
+		"/Z/Games/Minecraft/Instances/SevTech Ages/config/incontrol/spawn.json",
+		"/Z/Games/Minecraft/Instances/SevTech Ages/config/incontrol/main.cfg",
+		"/Z/Games/Minecraft/Instances/Valhelsia 2 (1)/Server/server.properties",
+		"/C/xampp/htdocs/FuneralAppOnePager/style.css",
+		"/C/xampp/htdocs/FuneralAppOnePager/index.html",
+		"/C/Users/catte/Desktop/Style.php",
+		"/C/Users/catte/Documents/Games/ Endwar1/js/rpg_objects.js",
+		"/C/Users/catte/Documents/Games/ Endwar1/js/plugins/animatedSVEnemies.js",
+		"/C/Users/catte/Downloads/Those_games_are_free_on_steam_enter_their_page_to_claim_them",
+		"/Z/Games/Minecraft/Instances/minetest/config/waystones-client.toml",
+		"/Z/Games/Minecraft/Instances/minetest/config/waystones-common.toml",
+		"/C/Users/catte/AppData/Local/Temp/fz3temp-2/Style.php",
+		"/C/Users/catte/AppData/Local/Temp/fz3temp-2/fsd-tooltip.php",
+		"/C/Users/catte/Desktop/server/ServerStart.bat",
+		"/C/Users/catte/Desktop/server/server.properties",
+		"/C/Users/catte/Desktop/server/options.txt",
+		"/C/Users/catte/Desktop/Nocturne's guide.txt",
+		"/C/Users/catte/Desktop/profile.html",
+		"/C/Users/catte/Desktop/Nieuw tekstdocument.txt"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"dimension",
+			"frequency",
+			"2",
+			"updateCards",
+			"myPresetSaverLabel"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "routes/api.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1442,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								649,
+								653
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/Http/Middleware/Authenticate.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 469,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/Http/Controllers/Auth/ApiAuthController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3539,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1506,
+								1506
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 432.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/Http/Controllers/DinerController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1468,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1468,
+								1468
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "NibblrRest.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
